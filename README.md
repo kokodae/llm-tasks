@@ -6,7 +6,7 @@
 
 **Файл:** [task1.py](https://github.com/kokodae/llm-tasks/blob/main/task1.py)
 
-**Результат:** [result1](https://github.com/kokodae/llm-tasks/blob/main/result1.png)
+![Результат](https://github.com/kokodae/llm-tasks/blob/main/result1.png)
 
 **Описание работы:**
 1. Пользователь вводит текст на английском
@@ -24,7 +24,7 @@ pip install langchain langchain-community gigachat
 
 **Файл:** [task2.py](https://github.com/kokodae/llm-tasks/blob/main/task2.py)
 
-**Результат:** [result2](https://github.com/kokodae/llm-tasks/blob/main/result2.png)
+![Результат](https://github.com/kokodae/llm-tasks/blob/main/result2.png)
 
 **Доступные инструменты (tools):**
 
